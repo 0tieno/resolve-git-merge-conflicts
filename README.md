@@ -1,5 +1,8 @@
 # why this repo?
 
+![presentation](https://img.shields.io/badge/presentation-merge%20conflicts-blue)
+![demo](images/presentation.png)
+
 This repository is dedicated to understanding and resolving merge conflicts in Git. Merge conflicts occur when there are conflicting changes in different branches that need to be merged together. This can happen when multiple developers are working on the same codebase and make conflicting changes.
 
 ## Resources
