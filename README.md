@@ -7,7 +7,11 @@ This repository is dedicated to understanding and resolving merge conflicts in G
 
 ## Resources
 
-[see this presentation](https://stdntpartners-my.sharepoint.com/:p:/g/personal/ronney_otieno_studentambassadors_com/Ed_L-wu40C5CixAdciHo55gBAsFqN0Gzcry1V3v2w60ruQ?e=0d2Ufd)
+- [see this guided presentation](https://stdntpartners-my.sharepoint.com/:p:/g/personal/ronney_otieno_studentambassadors_com/Ed_L-wu40C5CixAdciHo55gBAsFqN0Gzcry1V3v2w60ruQ?e=0d2Ufd)
+
+- [Learn it yourself on Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/resolve-merge-conflicts-github/)
+
+- [More reference to see more](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts)
 
 ## Understanding & resolving Merge Conflicts With `Best Practices`
 
