@@ -12,7 +12,6 @@ This repository is dedicated to understanding and resolving merge conflicts in G
 - [Learn it yourself on Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/resolve-merge-conflicts-github/)
 
 - [More reference to see more](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts)
-- [see the deployed site on azure blob storage](https://blobstoragedemotime.z13.web.core.windows.net/)
 
 ## Understanding & resolving Merge Conflicts With `Best Practices`
 
