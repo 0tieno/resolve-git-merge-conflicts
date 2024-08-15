@@ -13,6 +13,21 @@ ul {
 li {
     margin-bottom: 10px;
 }
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+img {
+    width: 250px;
+    margin-bottom: 10px;
+}
 footer {
     text-align: center;
     margin-top: 20px;
